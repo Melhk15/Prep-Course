@@ -1,0 +1,7 @@
+// Las Variables son una forma de almacenar algun valor para poder usar cuando se lo requiera
+// Los Strings son bloques de texto que se escriben entre "" o '', y pueden ir dentro de una variable
+// Las Funciones son tipos particulares de objeto (que se llaman callavle objetcs).
+// Los argumentos son los valores que se le pasan a la funcion y el Return es lo que se pide que retorne.
+// Las Declaraciones `if` son condiciones, entre los paréntesis se informa lo que se le pide al sistema.
+// Los Valores booleanos son `true` y `false`, provienen de la logica boole. Es el codigo binario, 
+//el nucleo de las computadoras. 
