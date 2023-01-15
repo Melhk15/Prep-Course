@@ -1,0 +1,5 @@
+//El bucle `for`: Ejecuta varias acciones repetitivas, es mas sencillo y permite ahorrar lineas en el codigo
+//
+// El simbolo; `&&` representa AND es una conjuncion, y para que se ejecute "true" se deben cumplir todas las condiciones que se establezcan en el codigo.
+// El simbolo: `||` representa OR es una disyunion, y para que se ejecute solo es necesario que se cumpla una de las condiciones que establezca.
+// El simbolo: `!` representa NOT es una negacion, por lo cual va a preguntar por el valor opuesto del parametro.
